@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.175.115.188:8081/repository/flm-day1/</url>
+		    <url>http://18.207.211.215:8081/repository/flm-day1/</url>
 		</repository>
   	</distributionManagement>
 	
